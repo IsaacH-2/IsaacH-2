@@ -10,7 +10,6 @@ Electrical & Computer Engineering student at UC Santa Cruz, working toward EE. I
 
 **What I'm working on**
 
-- **[supremetides.com](https://supremetides.com)** · full-stack web store
 - **FaultClaw** · adversarial hardware verification, built at a UCSC × NVIDIA hackathon
 - **[gtr-mfd](https://github.com/IsaacH-2/gtr-mfd)** · the display above. It redraws every night from my GitHub activity; put one on your own profile in two steps
 
