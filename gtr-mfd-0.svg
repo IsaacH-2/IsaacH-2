@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" role="img" aria-labelledby="t d">
+<title id="t">Isaac Hashimi's GitHub multifunction display</title>
+<desc id="d">Contribution streak 0 days, 10 contributions this week, 0 open issues, 0 open pull requests, top language HTML.</desc>
+<defs>
+  <linearGradient id="bez" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d232a"/><stop offset="1" stop-color="#0c0f12"/></linearGradient>
+  <radialGradient id="glass" cx="0.3" cy="0" r="1.1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.06"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  <filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="840" height="320"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.18"/></pattern>
+</defs>
+
+<rect x="1" y="1" width="838" height="318" rx="22" fill="url(#bez)" stroke="#2a3038" stroke-width="2"/>
+<rect x="18" y="18" width="804" height="284" rx="10" fill="#05080b" stroke="#000" stroke-width="2"/>
+<line x1="58" y1="58" x2="58" y2="270" stroke="#141b23"/><line x1="98" y1="58" x2="98" y2="270" stroke="#141b23"/><line x1="138" y1="58" x2="138" y2="270" stroke="#141b23"/><line x1="178" y1="58" x2="178" y2="270" stroke="#141b23"/><line x1="218" y1="58" x2="218" y2="270" stroke="#141b23"/><line x1="258" y1="58" x2="258" y2="270" stroke="#141b23"/><line x1="298" y1="58" x2="298" y2="270" stroke="#141b23"/><line x1="338" y1="58" x2="338" y2="270" stroke="#141b23"/><line x1="378" y1="58" x2="378" y2="270" stroke="#141b23"/><line x1="418" y1="58" x2="418" y2="270" stroke="#141b23"/><line x1="458" y1="58" x2="458" y2="270" stroke="#141b23"/><line x1="498" y1="58" x2="498" y2="270" stroke="#141b23"/><line x1="538" y1="58" x2="538" y2="270" stroke="#141b23"/><line x1="578" y1="58" x2="578" y2="270" stroke="#141b23"/><line x1="618" y1="58" x2="618" y2="270" stroke="#141b23"/><line x1="658" y1="58" x2="658" y2="270" stroke="#141b23"/><line x1="698" y1="58" x2="698" y2="270" stroke="#141b23"/><line x1="738" y1="58" x2="738" y2="270" stroke="#141b23"/><line x1="778" y1="58" x2="778" y2="270" stroke="#141b23"/><line x1="818" y1="58" x2="818" y2="270" stroke="#141b23"/>
+<g>
+      <rect x="41" y="30" width="185" height="24" rx="3" fill="#2b3540" opacity="0.35"/>
+      <rect x="41" y="30" width="185" height="24" rx="3" fill="#ff2a1f" opacity="1"/>
+      <text x="133.5" y="46.5" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#e9eef3" font-weight="700">BOOST</text>
+    </g><g>
+      <rect x="232" y="30" width="185" height="24" rx="3" fill="#2b3540" opacity="0.35"/>
+      <rect x="232" y="30" width="185" height="24" rx="3" fill="#ff2a1f" opacity="0"/>
+      <text x="324.5" y="46.5" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#e9eef3" font-weight="700">TEMP / FUEL</text>
+    </g><g>
+      <rect x="423" y="30" width="185" height="24" rx="3" fill="#2b3540" opacity="0.35"/>
+      <rect x="423" y="30" width="185" height="24" rx="3" fill="#ff2a1f" opacity="0"/>
+      <text x="515.5" y="46.5" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#e9eef3" font-weight="700">G-METER</text>
+    </g><g>
+      <rect x="614" y="30" width="185" height="24" rx="3" fill="#2b3540" opacity="0.35"/>
+      <rect x="614" y="30" width="185" height="24" rx="3" fill="#ff2a1f" opacity="0"/>
+      <text x="706.5" y="46.5" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#e9eef3" font-weight="700">LAP TIMER</text>
+    </g>
+<g><path d="M 150.33 234 A 92 92 0 1 1 309.67 234" fill="none" stroke="#2b3540" stroke-width="7" opacity="1"/>
+<path d="M 317.5 159.57 A 92 92 0 0 1 309.67 234" fill="none" stroke="#ff2a1f" stroke-width="7" opacity="0.85"/>
+
+<line x1="158.99" y1="229" x2="169.38" y2="223" stroke="#e9eef3" stroke-width="2"/>
+<text x="179.77" y="221" font-size="10.5" fill="#6f7c89" text-anchor="middle">0</text>
+<line x1="149.25" y1="173.76" x2="161.06" y2="175.84" stroke="#e9eef3" stroke-width="2"/>
+<text x="172.88" y="181.93" font-size="10.5" fill="#6f7c89" text-anchor="middle">5</text>
+<line x1="177.29" y1="125.18" x2="185" y2="134.38" stroke="#e9eef3" stroke-width="2"/>
+<text x="192.72" y="147.57" font-size="10.5" fill="#6f7c89" text-anchor="middle">10</text>
+<line x1="230" y1="106" x2="230" y2="118" stroke="#e9eef3" stroke-width="2"/>
+<text x="230" y="134" font-size="10.5" fill="#6f7c89" text-anchor="middle">15</text>
+<line x1="282.71" y1="125.18" x2="275" y2="134.38" stroke="#e9eef3" stroke-width="2"/>
+<text x="267.28" y="147.57" font-size="10.5" fill="#6f7c89" text-anchor="middle">20</text>
+<line x1="310.75" y1="173.76" x2="298.94" y2="175.84" stroke="#e9eef3" stroke-width="2"/>
+<text x="287.12" y="181.93" font-size="10.5" fill="#6f7c89" text-anchor="middle">25</text>
+<line x1="301.01" y1="229" x2="290.62" y2="223" stroke="#e9eef3" stroke-width="2"/>
+<text x="280.23" y="221" font-size="10.5" fill="#6f7c89" text-anchor="middle">30</text>
+<g transform="rotate(-210 230 188)"><line x1="230" y1="188" x2="314" y2="188" stroke="#ff2a1f" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/></g>
+<circle cx="230" cy="188" r="8" fill="#1b2128" stroke="#6f7c89"/>
+<text x="230" y="232" text-anchor="middle" font-size="34" font-weight="700" fill="#e9eef3">0</text>
+<text x="230" y="252" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#ffb22e" font-weight="700">DAY STREAK</text>
+    <text x="470" y="82" font-size="10.5" fill="#6f7c89" letter-spacing="1.5">CONTRIBUTIONS · LAST 7 DAYS</text>
+    <line x1="470" y1="196" x2="790" y2="196" stroke="#2b3540"/>
+    <rect x="475" y="156.57142857142858" width="35.714285714285715" height="39.42857142857142" fill="#4cc9ff" opacity="0.9"/>
+      <text x="492.85714285714283" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">SU</text>
+      <text x="492.85714285714283" y="151.57142857142858" font-size="10" fill="#e9eef3" text-anchor="middle">3</text><rect x="520.7142857142857" y="104" width="35.714285714285715" height="92" fill="#ff2a1f" opacity="0.9"/>
+      <text x="538.5714285714286" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">MO</text>
+      <text x="538.5714285714286" y="99" font-size="10" fill="#e9eef3" text-anchor="middle">7</text><rect x="566.4285714285714" y="194" width="35.714285714285715" height="2" fill="#4cc9ff" opacity="0.25"/>
+      <text x="584.2857142857143" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">TU</text>
+      <text x="584.2857142857143" y="189" font-size="10" fill="#e9eef3" text-anchor="middle"></text><rect x="612.1428571428571" y="194" width="35.714285714285715" height="2" fill="#4cc9ff" opacity="0.25"/>
+      <text x="630" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">WE</text>
+      <text x="630" y="189" font-size="10" fill="#e9eef3" text-anchor="middle"></text><rect x="657.8571428571429" y="194" width="35.714285714285715" height="2" fill="#4cc9ff" opacity="0.25"/>
+      <text x="675.7142857142858" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">TH</text>
+      <text x="675.7142857142858" y="189" font-size="10" fill="#e9eef3" text-anchor="middle"></text><rect x="703.5714285714286" y="194" width="35.714285714285715" height="2" fill="#4cc9ff" opacity="0.25"/>
+      <text x="721.4285714285714" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">FR</text>
+      <text x="721.4285714285714" y="189" font-size="10" fill="#e9eef3" text-anchor="middle"></text><rect x="749.2857142857142" y="194" width="35.714285714285715" height="2" fill="#4cc9ff" opacity="0.25"/>
+      <text x="767.1428571428571" y="210" font-size="10" fill="#6f7c89" text-anchor="middle">SA</text>
+      <text x="767.1428571428571" y="189" font-size="10" fill="#e9eef3" text-anchor="middle"></text>
+    <text x="470" y="244" font-size="9.5" fill="#6f7c89" letter-spacing="1.2">THIS WEEK</text>
+    <text x="470" y="264" font-size="17" fill="#e9eef3" font-weight="700">10</text>
+    <text x="590" y="244" font-size="9.5" fill="#6f7c89" letter-spacing="1.2">LONGEST STREAK</text>
+    <text x="590" y="264" font-size="17" fill="#e9eef3" font-weight="700">3d</text>
+    <text x="730" y="244" font-size="9.5" fill="#6f7c89" letter-spacing="1.2">PEAK DAY</text>
+    <text x="730" y="264" font-size="17" fill="#e9eef3" font-weight="700">7</text></g>
+<line x1="38" y1="276" x2="802" y2="276" stroke="#2b3540"/>
+<text x="40" y="292" font-size="10.5" fill="#6f7c89" letter-spacing="1">@ISAACH-2 · 59 CONTRIBUTIONS / 1Y</text>
+<text x="800" y="292" font-size="10.5" fill="#6f7c89" text-anchor="end" letter-spacing="1">UPDATED 2026-11-07</text>
+<rect x="18" y="18" width="804" height="284" rx="10" fill="url(#scan)" pointer-events="none"/>
+<rect x="18" y="18" width="804" height="284" rx="10" fill="url(#glass)" pointer-events="none"/>
+</svg>
